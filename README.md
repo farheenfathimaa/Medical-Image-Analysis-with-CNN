@@ -1,8 +1,8 @@
 # Medical Image Analysis with CNN  
 This project uses Convolutional Neural Networks (CNNs) to analyze chest X-ray images and detect pneumonia. By leveraging deep learning techniques, the system classifies X-ray images as normal or pneumonia, aiding healthcare professionals in making accurate diagnoses.  
 
----
 > This notebook is the copy of the code by @ahmedmahmoud16 (Hosted online on kaggle) [link of original notebook](https://www.kaggle.com/code/ahmedmahmoud16/medical-image-analysis-with-cnn/notebook)
+
 ---
 
 ## Dataset  
