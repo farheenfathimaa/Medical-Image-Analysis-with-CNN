@@ -61,7 +61,7 @@ The dataset contains chest X-ray images categorized into two classes:
    ```  
 
 2. **Open the Colab Notebook**:  
-   - Navigate to the folder containing the Colab notebook (`medical_image_analysis_cnn.ipynb`) and open it in Google Colab.  
+   - Navigate to the folder containing the Colab notebook (`Medical_Image_Analysis_with_CNN.ipynb`) and open it in Google Colab.  
 
 3. **Connect Google Drive**:  
    - Mount your Google Drive as described in the **Dataset** section.  
@@ -90,6 +90,13 @@ The dataset contains chest X-ray images categorized into two classes:
 
 - The trained model achieves high accuracy in detecting pneumonia from chest X-ray images.  
 - Visualizations and predictions are displayed directly in the notebook for easy interpretation.  
+
+---
+
+## Authors
+- Farheen Fathima, Macherla Chaitanya 
+- GitHub: [farheenfathimaa](https://github.com/farheenfathimaa)
+          [chaitanyamacherla09](https://github.com/chaitanyamacherla09)
 
 ---
 
